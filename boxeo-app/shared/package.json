@@ -1,0 +1,17 @@
+{
+  "name": "boxeo-shared",
+  "version": "1.0.0",
+  "description": "Tipos compartidos para BoxeoApp",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "keywords": ["typescript", "types", "shared"],
+  "author": "BoxeoApp Team",
+  "license": "MIT"
+}
