@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://boxeoapp.vercel.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Allow all pages for demo purposes
+# In production, you might want to disallow admin areas:
+# Disallow: /admin
+# Disallow: /dashboard
